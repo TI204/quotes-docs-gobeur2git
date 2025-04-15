@@ -1,0 +1,33 @@
+$ git log --all --decorate --oneline --graph
+e7d49b4 (HEAD -> contributor-2, origin/contributor-2) Pushed log contributor-2
+c292a25 contrib 2
+| *   32d3b1d (origin/main, origin/HEAD, main) Merge pull request #7 from SamyLH/maj-docs-Samy
+| |\
+| | * 8439501 Complete index.md and README.md (Contributor 3)
+| * | 61fbf53 Merge pull request #6 from SamyLH/maj-docs-Samy
+| ||
+| | * f7d5849 Complete index.md and README.md (Contributor 3)
+| |/
+| *   c7a1cac Merge pull request #4 from SamyLH/maj-readme-Samy
+| |\
+| | * edd6f47 Ajout de mon nom et du lien du fork
+| * |   93ac2e1 contributeur-2
+| |\ \
+| |/ /
+|/| /
+| |/
+| 82e81fa Added functions.md
+| *   ef36259 Merge pull request #2 from TI204/contributor-2
+| |\
+| |/
+|/|
+| 4d0aa4a Ajout des fonctions Python dans functions.md
+|/
+c19eba6 Merge pull request #1 from TI204/contributor-1
+|\
+| * 1bc6d76 (origin/contributor-1) Add features.md (Contributor 1)
+| * 1bdccb4 Complete index.md and README.md (Contributor 1)
+|/
+3db8551 Initial Commit
+0298e62 add deadline
+823f05c (origin/gh-pages) Deployed 3db8551 with MkDocs version: 1.6.1
