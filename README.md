@@ -8,6 +8,8 @@ Solutions de l'évaluation notée 2 du groupe gobeur2git à l'aide de MkDocs.
 
 - `initiateur` : Thibaut MINARD
 -`contributeur-1`:Vincent HOEBLER
+-`contributeur-3`:Samy LOKMANE
+
 
 ## URLs des dépôts
 
@@ -16,7 +18,7 @@ Solutions de l'évaluation notée 2 du groupe gobeur2git à l'aide de MkDocs.
 
 # Programming Quotes
 
-Contributor: Vincent HOEBLER
+Contributor: Vincent HOEBLER, Vincent HOEBLER
 Fork: https://github.com/TI204/quotes-docs-gobeur2git.git
 
 
