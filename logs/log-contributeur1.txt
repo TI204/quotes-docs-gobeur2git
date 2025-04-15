@@ -1,0 +1,5 @@
+* 1bc6d76 (HEAD -> contributor-1, origin/contributor-1) Add features.md (Contributor 1)
+* 1bdccb4 Complete index.md and README.md (Contributor 1)
+* 3db8551 (origin/main, origin/HEAD, main) Initial Commit
+* 0298e62 add deadline
+* 823f05c (origin/gh-pages) Deployed 3db8551 with MkDocs version: 1.6.1
